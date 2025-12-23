@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "魔法",
+  "base_artist": "tayori",
+  "createdAt": "2025-12-23T12:18:14.330114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魔法",
+      "artist": "Suga Shikao",
+      "has_synced": false,
+      "path": "select/01_魔法_Suga_Shikao.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "魔法",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/02_魔法_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "魔法 - Anime Size",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/03_魔法_-_Anime_Size_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "魔法",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/04_魔法_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "魔法",
+      "artist": "Myuk",
+      "has_synced": false,
+      "path": "select/05_魔法_Myuk.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "魔法",
+      "artist": "優河",
+      "has_synced": true,
+      "path": "select/06_魔法_優河.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "魔法 (Anime Size)",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/07_魔法_(Anime_Size)_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "魔法",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/08_魔法_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "魔法",
+      "artist": "Yokez",
+      "has_synced": true,
+      "path": "select/09_魔法_Yokez.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "形而上学的、魔法",
+      "artist": "でんぱ組.inc",
+      "has_synced": false,
+      "path": "select/10_形而上学的、魔法_でんぱ組.inc.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "形而上学的、魔法",
+      "artist": "Dempagumi.inc",
+      "has_synced": false,
+      "path": "select/11_形而上学的、魔法_Dempagumi.inc.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "魔法 (Anime Size)",
+      "artist": "Myuk",
+      "has_synced": false,
+      "path": "select/12_魔法_(Anime_Size)_Myuk.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔法",
+      "artist": "tayori",
+      "has_synced": false,
+      "path": "select/pl_01_魔法_tayori.txt"
+    }
+  ]
+}
